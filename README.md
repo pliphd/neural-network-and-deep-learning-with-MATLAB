@@ -1,0 +1,2 @@
+# neural-network-and-deep-learning-with-MATLAB
+I'm a start learner of deep learning and I found Michael Nielsen's online e-book ["Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/) awesome! In the meantime I'm a **_MATLABer_** with 10 years experiences. In this project, I'm gonna rewrite what Michael has done in Python using MATLAB. I'm doing so partly to digest Michael's book and partly for other MATLAB users to read and enjoy this book.
