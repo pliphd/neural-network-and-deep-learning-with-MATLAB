@@ -22,3 +22,5 @@ I'm a start learner of deep learning and I found Michael Nielsen's online e-book
   **QuadraticCost.m**: _class definition for quadratic cost function_
 
   **folder: Weight_init_regularization_test**: _test resulting using large_weight_init with or without regularization, and using small_weight_init with regularization_
+
+  **test_gnnet_MNIST.m**: _this the program I used to test the **gnnet.m**. It will give you a log ASCII file showing the steps of training ect and an MATLAB figure output showing the cost functions and accurracies. I used this to produce the results in **folder: Weight_init_regularization_test** with some change in parameters in this program_
