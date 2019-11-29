@@ -14,3 +14,11 @@ I'm a start learner of deep learning and I found Michael Nielsen's online e-book
   **test_nneto_MNIST.mlx**: _live script again but using net size [784, 100, 10] This only takes less than 100 sec with the additional vectorization to finish 30 epochs_
   
   **__NNETO_MNIST_README_20190118.txt**: _systemwide readable results based on net size [784, 30, 10] but using **nneto.m** for comparing the speed of training by further vectorization with **nnet.m** (shown in **test_nnet_MNIST.mlx** or **__NNET_MNIST_README_20190118.txt**)_
+
+  **gnnet.m**: _corresponding to network2.py (updated from **nneto.m**). It requires two additional class definitions **CrossEntropyCost.m** and **QuadraticCost.m**_
+
+  **CrossEntropyCost.m**: _class definition for cross entropy cost function_
+
+  **QuadraticCost.m**: _class definition for quadratic cost function_
+
+  **folder: Weight_init_regularization_test**: _test resulting using large_weight_init with or without regularization, and using small_weight_init with regularization_
