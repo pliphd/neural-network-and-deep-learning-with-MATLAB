@@ -25,7 +25,7 @@ I'm a start learner of deep learning and I found Michael Nielsen's online e-book
 
   **test_gnnet_MNIST.m**: _this the program I used to test the **gnnet.m**. It will give you a log ASCII file showing the steps of training ect and an MATLAB figure output showing the cost functions and accurracies. I used this to produce the results in **folder: Weight_init_regularization_test** with some change in parameters in this program_
 
-  **test_toolbox_shallow.html**: _program and results for using MATLAB Deep Learning Toolbox to reconstruct a shallow neural network model as what we've built from scratch_
+  **test_toolbox_shallow.html**: _**this file is within test_toolbox.zip** program and results for using MATLAB Deep Learning Toolbox to reconstruct a shallow neural network model as what we've built from scratch_
 
   **prepareData2Local.m**: _used to save MNIST data to local drive_
 
@@ -33,6 +33,6 @@ I'm a start learner of deep learning and I found Michael Nielsen's online e-book
 
   **crossEntropyClassificationLayer.m**: _this is added in order to use a sigmoidLayer for output activation. It doesn't work as I explained in the **test_toolbox_shallow.html** at this moment since MATLAB keeps complaining about output activation_
 
-  **test_toolbox_deep_1.html**: _this model corresponds to the first deep neural network Michael introduced (with 1 convolutional layer). Test accuracy reached to 98.2% in my first try_
+  **test_toolbox_deep_1.html**: _**this file is within test_toolbox.zip** this model corresponds to the first deep neural network Michael introduced (with 1 convolutional layer). Test accuracy reached to 98.2% in my first try_
 
-  **test_toolbox_deep_2.html**: _this model corresponds to the model Michael introduced with 2 convolutional layers. Test accuracy reached to 99% in my first try. I've also implemented another technique called batch normalization in this model construction. See this file for a bit more info_
+  **test_toolbox_deep_2.html**: _**this file is within test_toolbox.zip** this model corresponds to the model Michael introduced with 2 convolutional layers. Test accuracy reached to 99% in my first try. I've also implemented another technique called batch normalization in this model construction. See this file for a bit more info_
