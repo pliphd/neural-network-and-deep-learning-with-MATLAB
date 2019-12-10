@@ -36,3 +36,5 @@ I'm a start learner of deep learning and I found Michael Nielsen's online e-book
   **test_toolbox_deep_1.html**: _**this file is within test_toolbox.zip** this model corresponds to the first deep neural network Michael introduced (with 1 convolutional layer). Test accuracy reached to 98.2% in my first try_
 
   **test_toolbox_deep_2.html**: _**this file is within test_toolbox.zip** this model corresponds to the model Michael introduced with 2 convolutional layers. Test accuracy reached to 99% in my first try. I've also implemented another technique called batch normalization in this model construction. See this file for a bit more info_
+
+  **test_toolbox_deep_augmentation**: _results based on the same model as we've used in **test_toolbox_deep_2.html**. However, I've done some image augmentation before training. It give a 99.4% accuracy in my first try_
